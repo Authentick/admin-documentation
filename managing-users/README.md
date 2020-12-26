@@ -1,7 +1,5 @@
 ---
-description: >-
-  Gatekeeper takes care of your user management. This section will show you how
-  to do so.
+description: Learn how to manage users in Gatekeeper.
 ---
 
 # Managing users
