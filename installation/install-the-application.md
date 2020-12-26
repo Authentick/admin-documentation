@@ -1,3 +1,7 @@
+---
+description: Learn how to install your own Gatekeeper server in minutes using Snap.
+---
+
 # Install the application
 
 Installing Gatekeeper is a fairly straight forward process:
