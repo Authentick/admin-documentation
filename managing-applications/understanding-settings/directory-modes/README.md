@@ -6,5 +6,7 @@ Configuring a directory mode is optional.
 
 {% page-ref page="scim.md" %}
 
-{% page-ref page="./" %}
+{% page-ref page="ldap-directory.md" %}
+
+
 
