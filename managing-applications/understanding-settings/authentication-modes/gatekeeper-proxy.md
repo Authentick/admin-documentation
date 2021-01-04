@@ -6,11 +6,11 @@ In this mode Gatekeeper will be acting as reverse proxy in front of the third-pa
 
 This mode supports immediate session suspension. If a user logs out, Gatekeeper Proxy is immediately aware of it.
 
-The third-party application will receive a signed JWT assertion which identifies the currently logged-in user.
+The third-party application will receive a signed JWT assertion which identifies the currently logged-in user. Gatekeeper Proxy can be used in combination with other authentication modes.
 
 ## Configuring Gatekeeper Proxy
 
-Gatekeeper Proxy requires you to configure an Internal as well as a Public hostname
+Gatekeeper Proxy requires you to configure an Internal as well as a public hostname.
 
 **Internal hostname:** Defines what host Gatekeeper should connect to. This needs to include the HTTPS or HTTP protocol. \(example: `http://192.168.1.45`\)
 
