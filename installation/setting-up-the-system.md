@@ -16,7 +16,7 @@ Whilst there is a Docker image used for development purposes, we do advise again
 
 ### Supported distributions
 
-Snap run on most Linux distributions and is pre-installed already on Ubuntu.  For simplicity, we would recommend taking Ubuntu as that is how we deploy it, but any other won't make a difference. 
+Snap will run on most Linux distributions and is pre-installed already on Ubuntu.  For simplicity, we would recommend taking Ubuntu as that is how we deploy it, but any other distributon won't make a difference. 
 
 {% hint style="info" %}
 The official [Snap documentation](https://snapcraft.io/docs/installing-snapd) shows a list of supported distributions and guides on how to install Snap.
@@ -32,7 +32,7 @@ Gatekeeper may use different ports in the future, we **highly recommend** to ins
 
 ### Required pre-requisites
 
-Before you proceed, make sure you full fill the following criteria:
+Before you proceed, make sure you fulfill the following criteria:
 
 * [ ] Running a supported distribution with Snap
 * [ ] SMTP account
