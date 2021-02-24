@@ -4,7 +4,7 @@
 
 Nextcloud can be integrated using the LDAP directory and authentication mode. This enables users to login to Nextcloud using the regular web login, the Nextcloud server will be able to enumerate all users.
 
-## Gatekeeper configuration
+## Authentick configuration
 
 Configure LDAP authentication and Directory mode as described in our documentation.
 
@@ -24,9 +24,9 @@ You will have to configure the following settings:
 
 {% tabs %}
 {% tab title="Server" %}
-* **Host:** Use the hostname shown in the Gatekeeper configuration.
-* **User DN:** Use the User DN shown in the Gatekeeper configuration.
-* **Base DN:** Use the Base DN shown in the Gatekeeper configuration.
+* **Host:** Use the hostname shown in the Authentick configuration.
+* **User DN:** Use the User DN shown in the Authentick configuration.
+* **Base DN:** Use the Base DN shown in the Authentick configuration.
 {% endtab %}
 
 {% tab title="Users" %}
@@ -49,6 +49,6 @@ You will have to configure the following settings:
 Upon configuration, you should be able to see all granted users in the "Users" settings and also be able to authenticate individually.
 
 {% hint style="info" %}
-Users will have to generate app-specific passwords for each login inside Gatekeeper.
+Users will have to generate app-specific passwords for each login inside Authentick.
 {% endhint %}
 

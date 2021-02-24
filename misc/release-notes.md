@@ -4,5 +4,5 @@
 
 ### Added
 
-* Initial release of the Gatekeeper Server software.
+* Initial release of the Authentick Server software.
 

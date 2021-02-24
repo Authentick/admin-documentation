@@ -1,5 +1,5 @@
 ---
-description: Learn how to manage applications in Gatekeeper.
+description: Learn how to manage applications in Authentick.
 ---
 
 # Managing applications

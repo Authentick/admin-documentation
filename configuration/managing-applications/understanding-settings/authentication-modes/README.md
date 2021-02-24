@@ -1,6 +1,6 @@
 # Authentication modes
 
-Every application requires you to configure an authentication mode. This defines how your application is authenticating users against Gatekeeper. Currently Gatekeeper supports the following modes:
+Every application requires you to configure an authentication mode. This defines how your application is authenticating users against Authentick. Currently Authentick supports the following modes:
 
 {% page-ref page="gatekeeper-proxy.md" %}
 

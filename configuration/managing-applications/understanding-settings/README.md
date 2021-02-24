@@ -4,7 +4,7 @@ Each application requires you to specify what authentication and directory mode 
 
 ## Authentication modes
 
-Authentication modes are mandatory and defines how the application will authenticate users against Gatekeeper.
+Authentication modes are mandatory and defines how the application will authenticate users against Authentick.
 
 {% page-ref page="authentication-modes/" %}
 

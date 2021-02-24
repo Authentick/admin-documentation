@@ -20,7 +20,7 @@
   * [Editing applications](configuration/managing-applications/editing-applications.md)
   * [Understanding settings](configuration/managing-applications/understanding-settings/README.md)
     * [Authentication modes](configuration/managing-applications/understanding-settings/authentication-modes/README.md)
-      * [Gatekeeper Proxy](configuration/managing-applications/understanding-settings/authentication-modes/gatekeeper-proxy.md)
+      * [Authentick Proxy](configuration/managing-applications/understanding-settings/authentication-modes/gatekeeper-proxy.md)
       * [OpenID Connect](configuration/managing-applications/understanding-settings/authentication-modes/openid-connect.md)
       * [LDAP authentication](configuration/managing-applications/understanding-settings/authentication-modes/ldap-authentication.md)
     * [Directory modes](configuration/managing-applications/understanding-settings/directory-modes/README.md)

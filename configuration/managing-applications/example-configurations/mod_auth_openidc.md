@@ -5,10 +5,10 @@
 [`mod_auth_openidc`](https://github.com/zmartzone/mod_auth_openidc) is an Apache module implementing the OpenID Connect standard. The module allows you to add OpenID Connect to any existing Apache service.
 
 {% hint style="info" %}
-Gatekeeper Proxy can also be put in front of your application and offers additional features such as instant session revocation.
+Authentick Proxy can also be put in front of your application and offers additional features such as instant session revocation.
 {% endhint %}
 
-## Gatekeeper configuration
+## Authentick configuration
 
 Setup an OpenID Connect app as described in the documentation, as Redirect URI configure `https://<my-hostname>/gatekeeper-oidc-redirect`
 

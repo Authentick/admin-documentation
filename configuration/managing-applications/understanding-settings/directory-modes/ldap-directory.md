@@ -2,7 +2,7 @@
 
 ## How does this mode work?
 
-Gatekeeper will create a LDAP directory for the application. The third-party application can connect to it and get a list of all users.
+Authentick will create a LDAP directory for the application. The third-party application can connect to it and get a list of all users.
 
 ## Configuring LDAP directory
 
@@ -17,5 +17,5 @@ In the application settings you will find the following details:
 * Bind User
 * Bind User Password
 
-You will need to configure these details inside your application to connect against Gatekeeper.
+You will need to configure these details inside your application to connect against Authentick.
 
