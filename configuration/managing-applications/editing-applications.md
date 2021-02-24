@@ -7,7 +7,7 @@ You can edit any created application by pressing "Edit" in the "Apps" admin pane
 * Change the directory settings.
 * Add or remove groups to the group.
 
-![The edit interface for applications in Gatekeeper](../.gitbook/assets/edit-app-index.png)
+![The edit interface for applications in Gatekeeper](../../.gitbook/assets/edit-app-index.png)
 
 {% hint style="info" %}
 **Note:** Currently, it is not possible to change the application type after it has been setup.

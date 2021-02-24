@@ -4,7 +4,7 @@ description: Learn how to install your own Gatekeeper server in minutes using Sn
 
 # Setting up the system
 
-### How is Gatekeeper shipped?
+## How is Gatekeeper shipped?
 
 Gatekeeper is currently only distributed as a [Snap](https://snapcraft.io/), which is a distribution format that bundles all dependencies and offers automatic updates. Most configuration is done automatically for you.
 
@@ -14,9 +14,9 @@ Whilst this ensures that you have a secure and up-to-date setup, it also has the
 Whilst there is a Docker image used for development purposes, we do advise against using it for production purposes.
 {% endhint %}
 
-### Supported distributions
+## Supported distributions
 
-Snap will run on most Linux distributions and is pre-installed already on Ubuntu.  For simplicity, we would recommend taking Ubuntu as that is how we deploy it, but any other distributon won't make a difference. 
+Snap will run on most Linux distributions and is pre-installed already on Ubuntu. For simplicity, we would recommend taking Ubuntu as that is how we deploy it, but any other distributon won't make a difference.
 
 {% hint style="info" %}
 The official [Snap documentation](https://snapcraft.io/docs/installing-snapd) shows a list of supported distributions and guides on how to install Snap.
@@ -30,7 +30,7 @@ Make sure that you don't have any other services running on the system that is l
 
 Gatekeeper may use different ports in the future, we **highly recommend** to install Gatekeeper on a dedicated host for this reason.
 
-### Required pre-requisites
+## Required pre-requisites
 
 Before you proceed, make sure you fulfill the following criteria:
 

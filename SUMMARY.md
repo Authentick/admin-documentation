@@ -9,28 +9,26 @@
 
 ## Configuration
 
----
-
-* [Managing users](managing-users/README.md)
-  * [Creating users](managing-users/creating-users.md)
-  * [Editing users](managing-users/editing-users.md)
-* [Managing groups](managing-groups/README.md)
-  * [Creating groups](managing-groups/creating-groups.md)
-  * [Editing groups](managing-groups/editing-groups.md)
-* [Managing applications](managing-applications/README.md)
-  * [Creating applications](managing-applications/creating-applications.md)
-  * [Editing applications](managing-applications/editing-applications.md)
-  * [Understanding settings](managing-applications/understanding-settings/README.md)
-    * [Authentication modes](managing-applications/understanding-settings/authentication-modes/README.md)
-      * [Gatekeeper Proxy](managing-applications/understanding-settings/authentication-modes/gatekeeper-proxy.md)
-      * [OpenID Connect](managing-applications/understanding-settings/authentication-modes/openid-connect.md)
-      * [LDAP authentication](managing-applications/understanding-settings/authentication-modes/ldap-authentication.md)
-    * [Directory modes](managing-applications/understanding-settings/directory-modes/README.md)
-      * [SCIM](managing-applications/understanding-settings/directory-modes/scim.md)
-      * [LDAP directory](managing-applications/understanding-settings/directory-modes/ldap-directory.md)
-  * [Example configurations](managing-applications/example-configurations/README.md)
-    * [mod\_auth\_openidc](managing-applications/example-configurations/mod_auth_openidc.md)
-    * [Nextcloud](managing-applications/example-configurations/nextcloud.md)
+* [Managing users](configuration/managing-users/README.md)
+  * [Creating users](configuration/managing-users/creating-users.md)
+  * [Editing users](configuration/managing-users/editing-users.md)
+* [Managing groups](configuration/managing-groups/README.md)
+  * [Creating groups](configuration/managing-groups/creating-groups.md)
+  * [Editing groups](configuration/managing-groups/editing-groups.md)
+* [Managing applications](configuration/managing-applications/README.md)
+  * [Creating applications](configuration/managing-applications/creating-applications.md)
+  * [Editing applications](configuration/managing-applications/editing-applications.md)
+  * [Understanding settings](configuration/managing-applications/understanding-settings/README.md)
+    * [Authentication modes](configuration/managing-applications/understanding-settings/authentication-modes/README.md)
+      * [Gatekeeper Proxy](configuration/managing-applications/understanding-settings/authentication-modes/gatekeeper-proxy.md)
+      * [OpenID Connect](configuration/managing-applications/understanding-settings/authentication-modes/openid-connect.md)
+      * [LDAP authentication](configuration/managing-applications/understanding-settings/authentication-modes/ldap-authentication.md)
+    * [Directory modes](configuration/managing-applications/understanding-settings/directory-modes/README.md)
+      * [SCIM](configuration/managing-applications/understanding-settings/directory-modes/scim.md)
+      * [LDAP directory](configuration/managing-applications/understanding-settings/directory-modes/ldap-directory.md)
+  * [Example configurations](configuration/managing-applications/example-configurations/README.md)
+    * [mod\_auth\_openidc](configuration/managing-applications/example-configurations/mod_auth_openidc.md)
+    * [Nextcloud](configuration/managing-applications/example-configurations/nextcloud.md)
 
 ## Misc
 
